@@ -3,8 +3,6 @@
 [![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-red)](https://pandas.pydata.org/)
 [![Visualization](https://img.shields.io/badge/Visualization-Seaborn%2FMatplotlib-orange)](https://seaborn.pydata.org/)
 
-## 🎯 Overview
-This project performs an end-to-end exploratory data analysis (EDA) and feature engineering on e-commerce transaction data. The analysis tracks 3,500 records to uncover business growth patterns, seasonal sales trends, and product profitability metrics from 2022 to early 2025.
 
 The project transitions from raw transaction logs to a strategic business report, identifying peak shopping days and high-margin product categories to optimize marketing and inventory management.
 
