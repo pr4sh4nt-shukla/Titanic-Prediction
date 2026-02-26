@@ -1,4 +1,4 @@
-# 📊 Titanic Prediction
+# 📊 **Titanic Prediction**
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-red)](https://pandas.pydata.org/)
 [![Visualization](https://img.shields.io/badge/Visualization-Seaborn%2FMatplotlib-orange)](https://seaborn.pydata.org/)
